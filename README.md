@@ -3,6 +3,7 @@
 # OBJETIVOS
 
 # MARCO TEORICO
+![7](https://user-images.githubusercontent.com/85193519/127951717-f0e02d30-37e3-44a2-8163-0d5fd003a9af.jpg)
 
 # RESOLUCION DE EJERCICOS
 ![4](https://user-images.githubusercontent.com/85193519/127925802-3662eea6-be50-4dfa-af17-52612a604c95.jpg)
@@ -31,3 +32,4 @@ La maxima trasnferencia de potencia se obtiene para 1k ohmnio en Rl.
 # CONCLUSIONES
 
 #  BIBLIOGRAFIA
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
